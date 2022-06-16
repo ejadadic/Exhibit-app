@@ -1,2 +1,5 @@
 Name,URL,Duration,UpdateInterval,StartOn,EndBy,Cache
-Exhibit02,https://github.com/ejadadic/Exhibit-app/blob/main/Demo/Exhibit02.png,0:00:10,1:00:00,15/6/2022  12:00:00 AM,12/31/2024 23:59,yes
+Exhibit01,https://github.com/ejadadic/Exhibit-app/blob/main/Demo/Exhibit01.png,0:00:10,1:00:00,15/6/2022  12:00:00 AM,12/31/2030 23:59,yes
+Exhibit02,https://github.com/ejadadic/Exhibit-app/blob/main/Demo/Exhibit02.png,0:00:10,1:00:00,15/6/2022  12:00:00 AM,12/31/2030 23:59,yes
+Exhibit03,https://github.com/ejadadic/Exhibit-app/blob/main/Demo/Exhibit03.png,0:00:10,1:00:00,15/6/2022  12:00:00 AM,12/31/2030 23:59,yes
+Exhibit04,https://github.com/ejadadic/Exhibit-app/blob/main/Demo/Exhibit04.png,0:00:10,1:00:00,15/6/2022  12:00:00 AM,12/31/2030 23:59,yes
