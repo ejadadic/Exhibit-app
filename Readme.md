@@ -1,1 +1,1 @@
-
+Using Exhibit, to  customize the Apple TVs in  collaborative spaces by displaying curated images and videos to your users. The App also displays an AirPlay box similar to Conference Room Display mode so users can easily identify the device.
